@@ -3,7 +3,7 @@ FlyWithLua for X-Plane 11
 
 [![Build Status](https://travis-ci.org/X-Friese/FlyWithLua.svg)](https://travis-ci.org/X-Friese/FlyWithLua)
 
-https://travis-ci.org/urbanswelt/FlyWithLua.svg?branch=pr33
+[![Build Status](https://travis-ci.org/urbanswelt/FlyWithLua.svg?branch=pr33)](https://travis-ci.org/urbanswelt/FlyWithLua)
 
 This is the official source code repository for the FlyWithLua plugin project.
 
